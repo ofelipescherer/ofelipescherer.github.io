@@ -21,7 +21,9 @@ Por causa dessa paixão com jogos, estou caminhando para ser um game developer.
 
 ### Projetos :white_check_mark:  
 
-- #### Imersão Game Dev Alura :video_game:  
+- #### Journey Through The World | Imersão Game Dev Alura
+
+![P5 Imersão Game Dev Alura](https://imgur.com/a/RrLk0RK)
 
 Esse foi um projeto desenvolvido durante a Imersão Game Dev Alura.  
 É um jogo feito em sua maioria JavaScript, usando a [biblioteca do P5](https://p5js.org){:target="_blank"} (Uma biblioteca de desenvolvimento de jogos).  
@@ -56,13 +58,13 @@ A proposta era fazer um gerenciador de banco de dados usando as técnicas aprend
 
 ---
 
-- #### Felipe Scherer's Delivery :pouch:  
+- #### Felipe Scherer's Delivery | Semana Dev Superior 2.0
 
 [Link do Código no Github](https://github.com/ofelipescherer/fsdeliver-sds2){:target="_blank"}
 
 ---
 
-- #### Alura Quiz | Animal Quiz :grey_question:  
+- #### Animal Quiz | Alura Quiz  
 
 [Link do Código no Github](https://github.com/ofelipescherer/alura-quiz){:target="_blank"}
 
