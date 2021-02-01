@@ -79,6 +79,8 @@ Projeto desenvolvido durante a Semana Dev Superior 2.0. Foi proposto desenvolver
 
 Foi muito interessante, pois tive minhas primeiras experiências com Springboot, React Native e TypeScript. Além de começar a usar APIs como o Leaflet
 
+[Link do projeto hospedado na Netlify](https://felipescherer-sds2.netlify.app)
+
 [Link do Código no Github](https://github.com/ofelipescherer/fsdeliver-sds2){:target="_blank"}
 
 ---
