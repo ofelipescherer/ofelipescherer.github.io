@@ -1,12 +1,12 @@
 # Portifolio Felipe Scherer
 
-### Bem vindo ao meu portifolio  :smile:
+### Bem vindo ao meu portifolio  
 
 Aqui você encontra meus projetos. O código deles se encontra nos respectivos repositórios [aqui no meu github](https://github.com/ofelipescherer){:target="_blank"}.
 
 Sinta-se livre para usar o código como desejar com tanto que dê os devidos créditos.
 
-### Sobre mim :bowtie:
+### Sobre mim 
 
 Antes de mostrar meus projetos, gostaria de me apresentar. Sou estudante de Ciência da Computação e Técnico em Eletrônica(Apesar de não gostar muito da aréa rsrs).  
 
@@ -19,17 +19,22 @@ Por fim amo jogos que necessitam da criatividade e exploração, como Minecraft,
 
 Por causa dessa paixão com jogos, estou caminhando para ser um game developer.
 
-### Projetos :white_check_mark:  
+### Projetos :
 
 - #### Journey Through The World | Imersão Game Dev Alura
 
 ![Foto do game](https://user-images.githubusercontent.com/62115215/106463688-811cd100-6476-11eb-9870-bef8ce14a570.png)
 
-Esse foi um projeto desenvolvido durante a Imersão Game Dev Alura.  
+Esse foi um projeto desenvolvido durante a Imersão Game Dev Alura.
+
 É um jogo feito em sua maioria JavaScript, usando a [biblioteca do P5](https://p5js.org){:target="_blank"} (Uma biblioteca de desenvolvimento de jogos).  
+
 Em geral, o projeto é bem simples, porém foi uma das minhas primeiras experiências com JavaScript. O começo de uma paixão rsrs.  
+
 O jogo consiste em 3 fases. As duas primeiras, os inimigos foram configurados manualmente. Já a terceira eles são aleatórios.  
+
 O sprite do background e o do jogador foram feitos por mim.  
+
 Nessa época eu estava focando em fazer pixel art, porém os backgrounds precisavam ser feitos o mais rápido possível para eu acompanhar as aulas, então eu não me orgulho muito deles. Em contrapartida, eu me orgulho muito do sprite do jogador e provavelmente usarei ele no futuro para outros projetos.
 
 [Link no P5](https://editor.p5js.org/DraggonFe/full/0fWsbMlld){:target="_blank"}
@@ -38,21 +43,27 @@ Nessa época eu estava focando em fazer pixel art, porém os backgrounds precisa
 
 ----
 
-- #### Simulação de fila em caixa eletrônico :grimacing:  
+- #### Simulação de fila em caixa eletrônico   
 
 Esse projeto foi provavelmente um dos meus primeiros que realmente desafiou minha lógica de programação.  
+
 Foi um desafio proposto pela minha professora de Estrutura de Dados. Em resumo, é simulado uma situação onde deve existir caixa eletrônicos e uma quantidade de clientes aleatória devem usar eles. Caso tenha mais que 3 clientes (quantidade de caixas eletrônicos) os próximos deverão ser guardados em uma fila. No final, o objetivo é calcular quanto tempo médio os clientes ficaram na fila.  
+
 O desafio foi fazer em Python usando o mínimo necessário de bibliotecas. Meu projeto gera um arquivo de relatório e tudo pode ser encontrado na página do GitHub
 
 [Link do Código no Github](https://github.com/ofelipescherer/Simulacao-Caixa-Eletronico){:target="_blank"}
 
 ---
 
-- #### Programa gerenciador de banco de dados de uma livraria :books:  
+- #### Programa gerenciador de banco de dados de uma livraria    
 
 Mais um projeto desenvolvido para a faculdade. Dessa vez, foi para a APS (Atividades Práticas Supervisionadas) do 4ºSemestre.  
 
-A proposta era fazer um gerenciador de banco de dados usando as técnicas aprendidas na sala de aula com Java e MySQL
+A proposta era fazer um gerenciador de banco de dados usando as técnicas aprendidas na sala de aula com Java e MySQL.  
+
+O projeto foi feito usando Java puro, sem usar o Hibernate. Além de ter sido meu primeiro projeto usando interface gráfica em Java. 
+
+Mesmo usando os componentes padrão, foi um experência muito interessante por toda a organização e montagem deles.
 
 [Link do Código no Github](https://github.com/ofelipescherer/APS-4Semestre){:target="_blank"}
 
@@ -65,6 +76,8 @@ A proposta era fazer um gerenciador de banco de dados usando as técnicas aprend
 ---
 
 - #### Animal Quiz | Alura Quiz  
+
+[Link do projeto hospedado na Vercel](https://alura-quiz.ofelipescherer.vercel.app)
 
 [Link do Código no Github](https://github.com/ofelipescherer/alura-quiz){:target="_blank"}
 
