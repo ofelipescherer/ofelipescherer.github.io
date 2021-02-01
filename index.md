@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Portifolio Felipe Scherer
 
-You can use the [editor on GitHub](https://github.com/ofelipescherer/ofelipescherer.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Bem vindo ao meu portifolio 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aqui você encontra meus projetos. O código deles se encontra nos respectivos repositórios [aqui no meu github](https://github.com/ofelipescherer){:target="_blank"}.
 
-### Markdown
+Sinta-se livre para usar o código como desejar com tanto que dê os devidos créditos.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Sobre mim
 
-```markdown
-Syntax highlighted code block
+Antes de mostrar meus projetos, gostaria de me apresentar. Sou estudante de Ciência da Computação e Técnico em Eletrônica(Apesar de não gostar muito da aréa rsrs).  
+Estou sempre buscando conhecimento em todas as áreas relacionadas a tecnologia, em especial, a programação tanto web development (front-end e back-end) quanto ciência de dados.  
+Dentre as linguagens que eu adoro trabalhar estão o Python e JavaScript com alguns frameworks como o React, React Native e recentemente, o Next JS.  
+Tenho bastante conhecimento de Java por causa da faculdade e consigo me virar em C# também.
 
-# Header 1
-## Header 2
-### Header 3
+Por fim amo jogos que necessitam da criatividade e exploração, como Minecraft, Terraria e Subnautica. Além de adorar jogos indies como Celeste, Hollow Knight, Stardew Valley e Project Zomboid
 
-- Bulleted
-- List
+Por causa dessa paixão com jogos, estou caminhando para ser um game developer.
 
-1. Numbered
-2. List
+### Projetos
 
-**Bold** and _Italic_ and `Code` text
+- Imersão Game Dev Alura: 
 
-[Link](url) and ![Image](src)
-```
+Esse foi um projeto desenvolvido durante a Imersão Game Dev Alura.  
+É um jogo feito em sua maioria JavaScript, usando a [biblioteca do P5](https://p5js.org) (Uma biblioteca de desenvolvimento de jogos).  
+Em geral, o projeto é bem simples, porém foi uma das minhas primeiras experiências com JavaScript. O começo de uma paixão rsrs.  
+O jogo consiste em 3 fases. As duas primeiras, os inimigos foram configurados manualmente. Já a terceira eles são aleatórios.  
+O sprite do background e o do jogador foram feitos por mim.  
+Nessa época eu estava focando em fazer pixel art, porém os backgrounds precisavam ser feitos o mais rápido possível para eu acompanhar as aulas, então eu não me orgulho muito deles. Em contrapartida, eu me orgulho muito do sprite do jogador e provavelmente usarei ele no futuro para outros projetos.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Link no P5](https://editor.p5js.org/DraggonFe/full/0fWsbMlld){:target="_blank"}
 
-### Jekyll Themes
+[Link do Código no GitHub](https://github.com/ofelipescherer/GameDevImersaoAlura){:target="_blank"}
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ofelipescherer/ofelipescherer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+----
 
-### Support or Contact
+- Simulação de fila em caixa eletrônico 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Esse projeto foi provavelmente um dos meus primeiros que realmente desafiou minha lógica de programação.  
+Foi um desafio proposto pela minha professora de Estrutura de Dados. Em resumo, é simulado uma situação onde deve existir caixa eletrônicos e uma quantidade de clientes aleatória devem usar eles. Caso tenha mais que 3 clientes (quantidade de caixas eletrônicos) os próximos deverão ser guardados em uma fila. No final, o objetivo é calcular quanto tempo médio os clientes ficaram na fila.  
+O desafio foi fazer em Python usando o mínimo necessário de bibliotecas. Meu projeto gera um arquivo de relatório e tudo pode ser encontrado na página do GitHub
+
+[Link do Código no Github](https://github.com/ofelipescherer/Simulacao-Caixa-Eletronico){:target="_blank"}
+
+---
+
+
+
+
+
+
+
+
+
+
+
