@@ -71,11 +71,27 @@ Mesmo usando os componentes padrão, foi um experência muito interessante por t
 
 - #### Felipe Scherer's Delivery | Semana Dev Superior 2.0
 
+![fs-devery-1](https://user-images.githubusercontent.com/62115215/106468798-289d0200-647d-11eb-85c2-817c5511ad13.png)
+
+![fs-devery-2](https://user-images.githubusercontent.com/62115215/106468791-276bd500-647d-11eb-89e7-efc6048c0bd0.png)
+
+Projeto desenvolvido durante a Semana Dev Superior 2.0. Foi proposto desenvolver uma aplicação desde o front-end web e mobile até o back-end.
+
+Foi muito interessante, pois tive minhas primeiras experiências com Springboot, React Native e TypeScript. Além de começar a usar APIs como o Leaflet
+
 [Link do Código no Github](https://github.com/ofelipescherer/fsdeliver-sds2){:target="_blank"}
 
 ---
 
 - #### Animal Quiz | Alura Quiz  
+
+![quiz](https://user-images.githubusercontent.com/62115215/106468070-3d2cca80-647c-11eb-8346-6752ef4224f4.png)
+
+Meu mais recente projeto finalizado. É um Quiz usando o Next JS, um incrível framework para o React.
+
+Usamos ferramentas que adoro trabalhar como o React, porém dessa vez, com o Next JS e suas incríveis features de não precisar recarregar a página
+
+Com certeza o Next aparecerá em outros projetos, pois adorei a tecnologia que pode salvar muita internet móvel
 
 [Link do projeto hospedado na Vercel](https://alura-quiz.ofelipescherer.vercel.app)
 
