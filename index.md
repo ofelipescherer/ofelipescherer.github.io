@@ -19,7 +19,7 @@ Por causa dessa paixão com jogos, estou caminhando para ser um game developer.
 
 ### Projetos
 
-####- Imersão Game Dev Alura: 
+- #### Imersão Game Dev Alura: 
 
 Esse foi um projeto desenvolvido durante a Imersão Game Dev Alura.  
 É um jogo feito em sua maioria JavaScript, usando a [biblioteca do P5](https://p5js.org){:target="_blank"} (Uma biblioteca de desenvolvimento de jogos).  
@@ -34,7 +34,7 @@ Nessa época eu estava focando em fazer pixel art, porém os backgrounds precisa
 
 ----
 
-####- Simulação de fila em caixa eletrônico 
+- #### Simulação de fila em caixa eletrônico 
 
 Esse projeto foi provavelmente um dos meus primeiros que realmente desafiou minha lógica de programação.  
 Foi um desafio proposto pela minha professora de Estrutura de Dados. Em resumo, é simulado uma situação onde deve existir caixa eletrônicos e uma quantidade de clientes aleatória devem usar eles. Caso tenha mais que 3 clientes (quantidade de caixas eletrônicos) os próximos deverão ser guardados em uma fila. No final, o objetivo é calcular quanto tempo médio os clientes ficaram na fila.  
