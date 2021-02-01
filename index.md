@@ -22,7 +22,7 @@ Por causa dessa paixão com jogos, estou caminhando para ser um game developer.
 - Imersão Game Dev Alura: 
 
 Esse foi um projeto desenvolvido durante a Imersão Game Dev Alura.  
-É um jogo feito em sua maioria JavaScript, usando a [biblioteca do P5](https://p5js.org) (Uma biblioteca de desenvolvimento de jogos).  
+É um jogo feito em sua maioria JavaScript, usando a [biblioteca do P5](https://p5js.org){:target="_blank"} (Uma biblioteca de desenvolvimento de jogos).  
 Em geral, o projeto é bem simples, porém foi uma das minhas primeiras experiências com JavaScript. O começo de uma paixão rsrs.  
 O jogo consiste em 3 fases. As duas primeiras, os inimigos foram configurados manualmente. Já a terceira eles são aleatórios.  
 O sprite do background e o do jogador foram feitos por mim.  
