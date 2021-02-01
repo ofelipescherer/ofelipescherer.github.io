@@ -1,25 +1,27 @@
 # Portifolio Felipe Scherer
 
-### Bem vindo ao meu portifolio 
+### Bem vindo ao meu portifolio  :smile:
 
 Aqui você encontra meus projetos. O código deles se encontra nos respectivos repositórios [aqui no meu github](https://github.com/ofelipescherer){:target="_blank"}.
 
 Sinta-se livre para usar o código como desejar com tanto que dê os devidos créditos.
 
-### Sobre mim
+### Sobre mim :bowtie:
 
 Antes de mostrar meus projetos, gostaria de me apresentar. Sou estudante de Ciência da Computação e Técnico em Eletrônica(Apesar de não gostar muito da aréa rsrs).  
-Estou sempre buscando conhecimento em todas as áreas relacionadas a tecnologia, em especial, a programação tanto web development (front-end e back-end) quanto ciência de dados.  
-Dentre as linguagens que eu adoro trabalhar estão o Python e JavaScript com alguns frameworks como o React, React Native e recentemente, o Next JS.  
-Tenho bastante conhecimento de Java por causa da faculdade e consigo me virar em C# também.
 
-Por fim amo jogos que necessitam da criatividade e exploração, como Minecraft, Terraria e Subnautica. Além de adorar jogos indies como Celeste, Hollow Knight, Stardew Valley e Project Zomboid
+Estou sempre buscando conhecimento em todas as áreas relacionadas a tecnologia, em especial, a programação tanto web development (front-end e back-end) quanto ciência de dados.  
+Dentre as linguagens que eu adoro trabalhar estão o Python e JavaScript com alguns frameworks como o React, React Native e recentemente, o Next JS.    
+
+Tenho bastante conhecimento de Java por causa da faculdade e consigo me virar em C# também.  
+
+Por fim amo jogos que necessitam da criatividade e exploração, como Minecraft, Terraria e Subnautica. Além de adorar jogos indies como Celeste, Hollow Knight, Stardew Valley e Project Zomboid  
 
 Por causa dessa paixão com jogos, estou caminhando para ser um game developer.
 
-### Projetos
+### Projetos :white_check_mark:  
 
-- #### Imersão Game Dev Alura: 
+- #### Imersão Game Dev Alura :video_game:  
 
 Esse foi um projeto desenvolvido durante a Imersão Game Dev Alura.  
 É um jogo feito em sua maioria JavaScript, usando a [biblioteca do P5](https://p5js.org){:target="_blank"} (Uma biblioteca de desenvolvimento de jogos).  
@@ -34,7 +36,7 @@ Nessa época eu estava focando em fazer pixel art, porém os backgrounds precisa
 
 ----
 
-- #### Simulação de fila em caixa eletrônico 
+- #### Simulação de fila em caixa eletrônico :grimacing:  
 
 Esse projeto foi provavelmente um dos meus primeiros que realmente desafiou minha lógica de programação.  
 Foi um desafio proposto pela minha professora de Estrutura de Dados. Em resumo, é simulado uma situação onde deve existir caixa eletrônicos e uma quantidade de clientes aleatória devem usar eles. Caso tenha mais que 3 clientes (quantidade de caixas eletrônicos) os próximos deverão ser guardados em uma fila. No final, o objetivo é calcular quanto tempo médio os clientes ficaram na fila.  
@@ -44,11 +46,25 @@ O desafio foi fazer em Python usando o mínimo necessário de bibliotecas. Meu p
 
 ---
 
+- #### Programa gerenciador de banco de dados de uma livraria :books:  
 
+Mais um projeto desenvolvido para a faculdade. Dessa vez, foi para a APS (Atividades Práticas Supervisionadas) do 4ºSemestre.  
 
+A proposta era fazer um gerenciador de banco de dados usando as técnicas aprendidas na sala de aula com Java e MySQL
 
+[Link do Código no Github](https://github.com/ofelipescherer/APS-4Semestre){:target="_blank"}
 
+---
 
+- #### Felipe Scherer's Delivery :pouch:  
+
+[Link do Código no Github](https://github.com/ofelipescherer/fsdeliver-sds2){:target="_blank"}
+
+---
+
+- #### Alura Quiz | Animal Quiz :grey_question:  
+
+[Link do Código no Github](https://github.com/ofelipescherer/alura-quiz){:target="_blank"}
 
 
 
