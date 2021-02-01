@@ -71,7 +71,7 @@ Mesmo usando os componentes padrão, foi um experência muito interessante por t
 
 - #### Felipe Scherer's Delivery | Semana Dev Superior 2.0
 
-![fs-devery-1](https://user-images.githubusercontent.com/62115215/106468798-289d0200-647d-11eb-85c2-817c5511ad13.png)
+![fs-devery-1](https://user-images.githubusercontent.com/62115215/106469423-05268700-647e-11eb-9ef3-c4fefac4c9c8.png)
 
 ![fs-devery-2](https://user-images.githubusercontent.com/62115215/106468791-276bd500-647d-11eb-89e7-efc6048c0bd0.png)
 
