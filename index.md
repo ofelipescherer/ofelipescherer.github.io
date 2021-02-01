@@ -23,7 +23,7 @@ Por causa dessa paixão com jogos, estou caminhando para ser um game developer.
 
 - #### Journey Through The World | Imersão Game Dev Alura
 
-![P5 Imersão Game Dev Alura](https://imgur.com/a/RrLk0RK)
+![Foto do game](https://user-images.githubusercontent.com/62115215/106463688-811cd100-6476-11eb-9870-bef8ce14a570.png)
 
 Esse foi um projeto desenvolvido durante a Imersão Game Dev Alura.  
 É um jogo feito em sua maioria JavaScript, usando a [biblioteca do P5](https://p5js.org){:target="_blank"} (Uma biblioteca de desenvolvimento de jogos).  
