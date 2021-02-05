@@ -45,6 +45,8 @@ Nessa época eu estava focando em fazer pixel art, porém os backgrounds precisa
 
 - #### Simulação de fila em caixa eletrônico   
 
+![fila](https://user-images.githubusercontent.com/62115215/107034865-14ffdd00-6796-11eb-9a10-a8263d5e5fd6.png)
+
 Esse projeto foi provavelmente um dos meus primeiros que realmente desafiou minha lógica de programação.  
 
 Foi um desafio proposto pela minha professora de Estrutura de Dados. Em resumo, é simulado uma situação onde deve existir caixa eletrônicos e uma quantidade de clientes aleatória devem usar eles. Caso tenha mais que 3 clientes (quantidade de caixas eletrônicos) os próximos deverão ser guardados em uma fila. No final, o objetivo é calcular quanto tempo médio os clientes ficaram na fila.  
@@ -56,6 +58,8 @@ O desafio foi fazer em Python usando o mínimo necessário de bibliotecas. Meu p
 ---
 
 - #### Programa gerenciador de banco de dados de uma livraria    
+
+![livrariaImagem](https://user-images.githubusercontent.com/62115215/107034813-00234980-6796-11eb-908a-db3b6f351b3d.png)
 
 Mais um projeto desenvolvido para a faculdade. Dessa vez, foi para a APS (Atividades Práticas Supervisionadas) do 4ºSemestre.  
 
