@@ -79,7 +79,7 @@ Mesmo usando os componentes padrão, foi um experência muito interessante por t
 
 ![fs-devery-2](https://user-images.githubusercontent.com/62115215/106468791-276bd500-647d-11eb-89e7-efc6048c0bd0.png)
 
-Projeto desenvolvido durante a Semana Dev Superior 2.0. Foi proposto desenvolver uma aplicação desde o front-end web e mobile até o back-end.
+Projeto desenvolvido durante a Semana Dev Superior 2.0 do [Dev Superior](https://www.youtube.com/DevSuperior). Foi proposto desenvolver uma aplicação desde o front-end web e mobile até o back-end.
 
 Foi muito interessante, pois tive minhas primeiras experiências com Springboot, React Native e TypeScript. Além de começar a usar APIs como o Leaflet
 
@@ -93,7 +93,7 @@ Foi muito interessante, pois tive minhas primeiras experiências com Springboot,
 
 ![quiz](https://user-images.githubusercontent.com/62115215/106468070-3d2cca80-647c-11eb-8346-6752ef4224f4.png)
 
-Meu mais recente projeto finalizado. É um Quiz usando o Next JS, um incrível framework para o React.
+É um Quiz usando o Next JS, um incrível framework para o React. Desenvolvido durante a imersão React-Next JS da [Alura Cursos Online](https://www.alura.com.br/)
 
 Usamos ferramentas que adoro trabalhar como o React, porém dessa vez, com o Next JS e suas incríveis features de não precisar recarregar a página
 
@@ -103,7 +103,17 @@ Com certeza o Next aparecerá em outros projetos, pois adorei a tecnologia que p
 
 [Link do Código no Github](https://github.com/ofelipescherer/alura-quiz){:target="_blank"}
 
+- #### Move IT | NLW #04
+![moveit](https://user-images.githubusercontent.com/62115215/109429775-79e8d480-79dc-11eb-8db4-8387fc39d904.png)
 
+Aplicação desenvolvida no NLW #04 ou Next Level Week #04 da [Rockseat](https://rocketseat.com.br).
 
+Neste projeto foi usado conceitos de React e Next novamente, porém com a utilização de Contexts, que facilitam a conversa entre componentes.
 
+O objetivo do projeto é prevenir problemas de coluna, olhos e articulações, muito comum em quem trabalha com um computador. A cada 30 minutos é recebido um desafio com um exercício simples que pode prevenir problemas futuros. O estilo da aplicação é RPG, com leveis e experiência.
 
+Minha experiência ao criá-lo não poderia ter sido melhor. Neste ponto já tinha uma boa noção de React, o que facilitou muito meu workflow e consegui entender conceitos mais avançados, como os Contexts
+
+[Link do projeto hospedado na Vercel](https://moveit-ofelipescherer.vercel.app/)
+
+[Link do Código no Github](https://github.com/ofelipescherer/nlw04){:target="_blank"}
