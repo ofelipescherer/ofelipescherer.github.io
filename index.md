@@ -83,7 +83,7 @@ Projeto desenvolvido durante a Semana Dev Superior 2.0 do [Dev Superior](https:/
 
 Foi muito interessante, pois tive minhas primeiras experiências com Springboot, React Native e TypeScript. Além de começar a usar APIs como o Leaflet
 
-[Link do projeto hospedado na Netlify](https://felipescherer-sds2.netlify.app)
+[Link do projeto hospedado na Netlify](https://felipescherer-sds2.netlify.app){:target="_blank"}
 
 [Link do Código no Github](https://github.com/ofelipescherer/fsdeliver-sds2){:target="_blank"}
 
@@ -99,7 +99,7 @@ Usamos ferramentas que adoro trabalhar como o React, porém dessa vez, com o Nex
 
 Com certeza o Next aparecerá em outros projetos, pois adorei a tecnologia que pode salvar muita internet móvel
 
-[Link do projeto hospedado na Vercel](https://alura-quiz.ofelipescherer.vercel.app)
+[Link do projeto hospedado na Vercel](https://alura-quiz.ofelipescherer.vercel.app){:target="_blank"}
 
 [Link do Código no Github](https://github.com/ofelipescherer/alura-quiz){:target="_blank"}
 
@@ -114,6 +114,6 @@ O objetivo do projeto é prevenir problemas de coluna, olhos e articulações, m
 
 Minha experiência ao criá-lo não poderia ter sido melhor. Neste ponto já tinha uma boa noção de React, o que facilitou muito meu workflow e consegui entender conceitos mais avançados, como os Contexts
 
-[Link do projeto hospedado na Vercel](https://moveit-ofelipescherer.vercel.app/)
+[Link do projeto hospedado na Vercel](https://moveit-ofelipescherer.vercel.app){:target="_blank"}
 
 [Link do Código no Github](https://github.com/ofelipescherer/nlw04){:target="_blank"}
