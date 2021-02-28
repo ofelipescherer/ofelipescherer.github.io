@@ -105,7 +105,7 @@ Com certeza o Next aparecerá em outros projetos, pois adorei a tecnologia que p
 
 - #### Move IT | NLW #04
 <kbd>
-![moveit](https://user-images.githubusercontent.com/62115215/109429775-79e8d480-79dc-11eb-8db4-8387fc39d904.png)
+<img src="https://user-images.githubusercontent.com/62115215/109429775-79e8d480-79dc-11eb-8db4-8387fc39d904.png" alt="moveit"/>
 </kbd>
 Aplicação desenvolvida no NLW #04 ou Next Level Week #04 da [Rockseat](https://rocketseat.com.br).
 
