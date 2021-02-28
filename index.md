@@ -79,7 +79,7 @@ Mesmo usando os componentes padrão, foi um experência muito interessante por t
 
 ![fs-devery-2](https://user-images.githubusercontent.com/62115215/106468791-276bd500-647d-11eb-89e7-efc6048c0bd0.png)
 
-Projeto desenvolvido durante a Semana Dev Superior 2.0 do [Dev Superior](https://www.youtube.com/DevSuperior). Foi proposto desenvolver uma aplicação desde o front-end web e mobile até o back-end.
+Projeto desenvolvido durante a Semana Dev Superior 2.0 do [Dev Superior](https://www.youtube.com/DevSuperior){:target="_blank"}. Foi proposto desenvolver uma aplicação desde o front-end web e mobile até o back-end.
 
 Foi muito interessante, pois tive minhas primeiras experiências com Springboot, React Native e TypeScript. Além de começar a usar APIs como o Leaflet
 
@@ -93,7 +93,7 @@ Foi muito interessante, pois tive minhas primeiras experiências com Springboot,
 
 ![quiz](https://user-images.githubusercontent.com/62115215/106468070-3d2cca80-647c-11eb-8346-6752ef4224f4.png)
 
-É um Quiz usando o Next JS, um incrível framework para o React. Desenvolvido durante a imersão React-Next JS da [Alura Cursos Online](https://www.alura.com.br/)
+É um Quiz usando o Next JS, um incrível framework para o React. Desenvolvido durante a imersão React-Next JS da [Alura Cursos Online](https://www.alura.com.br/){:target="_blank"}
 
 Usamos ferramentas que adoro trabalhar como o React, porém dessa vez, com o Next JS e suas incríveis features de não precisar recarregar a página
 
